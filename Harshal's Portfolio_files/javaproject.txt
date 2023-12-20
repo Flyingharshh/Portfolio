@@ -1,0 +1,7 @@
+first step is take an list of number from user.
+
+second step
+part one use a for loop to find all combinations of codes using first nuber.
+part two do this until the n^th (last) number.
+
+third step print all the combination code that have been  created by following loops. 
